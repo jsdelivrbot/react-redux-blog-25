@@ -1,25 +1,26 @@
-# ReduxSimpleStarter
+# Blog Posts API Client App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This project is based on a video tutorial from Udemy, to help me learn more about React, Redux and React Router.
 
-### Getting Started
+## some npm packages that were used
 
-There are two methods for getting started with this repo.
+* react
+* redux
+* react-router-dom
+* axios
+* redux-promise
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+## Notes
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+This client-side app consumes an API provided at [http://reduxblog.herokuapp.com/](http://reduxblog.herokuapp.com/)
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+If you'd like to run this application:
 
-```
-> npm install
-> npm start
-```
+1. `npm install`
+2. `npm start`
+
+## Useful links
+
+Interested in learning [Redux](https://www.udemy.com/react-redux/) from an excellent Udemy course?
+
+Want to view [the original repo](https://github.com/StephenGrider/ReduxSimpleStarter) that this one was forked from?
