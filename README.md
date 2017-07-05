@@ -9,6 +9,7 @@ This project is based on a video tutorial from Udemy, to help me learn more abou
 * react-router-dom
 * axios
 * redux-promise
+* redux-form
 
 ## Notes
 
